@@ -7,5 +7,13 @@ public class FirstClass {
         System.out.println("hello,git_test01 project...");
         System.out.println("hello,git_test01 project...");
         System.out.println("hello,git_test01 project...");
+        //  hello test
+    }
+
+
+    public void test(){
+        int i = 0;
+        i++;
+        System.out.println(i);
     }
 }
