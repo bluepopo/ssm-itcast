@@ -1,0 +1,8 @@
+code\domain\Product.class
+code\domain\SysLog.class
+code\domain\Permission.class
+code\domain\Traveller.class
+code\domain\Member.class
+code\domain\Orders.class
+code\domain\Role.class
+code\domain\UserInfo.class

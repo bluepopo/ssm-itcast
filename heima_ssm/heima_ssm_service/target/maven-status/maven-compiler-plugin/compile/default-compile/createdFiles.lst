@@ -1,0 +1,12 @@
+code\service\impl\ProductServiceImpl.class
+code\service\impl\RoleServiceImpl.class
+code\service\IPermissionService.class
+code\service\IUserService.class
+code\service\impl\OrdersServiceImpl.class
+code\service\impl\SysLogServiceImpl.class
+code\service\impl\PermissionServiceImpl.class
+code\service\ISysLogService.class
+code\service\impl\UserServiceImpl.class
+code\service\IProductService.class
+code\service\IRoleService.class
+code\service\IOrdersService.class
